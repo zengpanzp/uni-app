@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "标签选择",
+  "usingComponents": {
+    "drag-ball": "/components/drag-ball/drag-ball"
+  }
+}

@@ -1,0 +1,7 @@
+
+.content {
+	width: 100%;
+	height: 1000rpx;
+	margin: 20rpx auto;
+}
+

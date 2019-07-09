@@ -1,0 +1,1 @@
+<view class="content"><drag-ball vue-id="1" onInit="{{onInit}}" colse="{{colse}}" data-event-opts="{{[['^click_',[['click_']]]]}}" bind:click_="__e" bind:__l="__l"></drag-ball></view>
